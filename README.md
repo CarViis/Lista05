@@ -1,4 +1,4 @@
-## Getting Started
+## Explicação
 
 Lista de exercício sobre modelamento de banco de dados de IFRN - Campus São gonçalo do Amarante.
 #
